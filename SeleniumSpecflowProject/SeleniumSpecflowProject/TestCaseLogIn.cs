@@ -18,9 +18,21 @@ namespace SeleniumSpecflowProject
             webDriver.FindElement(By.Id("Email")).Clear();
             webDriver.FindElement(By.Id("Email")).SendKeys("admin@yourstore.com");
             
-            webDriver.FindElement(By.Id("Password")).Clear();
-            webDriver.FindElement(By.Id("Password")).SendKeys("admin");
-            webDriver.FindElement(By.ClassName("buttons")).Click();
+            //webDriver.FindElement(By.Id("Password")).Clear();
+            //webDriver.FindElement(By.Id("Password")).SendKeys("admin");
+            //webDriver.FindElement(By.ClassName("buttons")).Click();
+
+            IWebElement EmailElement = webDriver.FindElement(By.Id("Email"));
+            IWebElement PasswordElement = webDriver.FindElement(By.Id("Password"));
+            IWebElement SubmitbuttonElement = webDriver.FindElement(By.Id("button"));
+
+            EmailElement.Clear();
+            EmailElement.SendKeys("admin@yourstore.com");
+
+            PasswordElement.Clear();
+            PasswordElement.SendKeys("admin");
+            SubmitbuttonElement.Click();
+            
         }
     }
 }
