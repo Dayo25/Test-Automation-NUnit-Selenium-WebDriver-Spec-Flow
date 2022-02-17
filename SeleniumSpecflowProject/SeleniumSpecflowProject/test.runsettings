@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="browser" value="chrome" />
+		<Parameter name="username" value=" " />
+		<Parameter name="password" value=" " />
+		<Parameter name="baseUrl" value=" "/>
+		<Parameter name="headless" value="false"/>
+	</TestRunParameters>
+</RunSettings>
