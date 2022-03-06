@@ -8,7 +8,6 @@ C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spe
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\SeleniumSpecflowProject.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\SeleniumSpecflowProject.pdb
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -22,7 +21,6 @@ C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spe
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\WebDriver.dll
-C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -97,3 +95,19 @@ C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spe
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\obj\Debug\netcoreapp3.1\SeleniumSpecflowProject.dll
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\obj\Debug\netcoreapp3.1\SeleniumSpecflowProject.pdb
 C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\obj\Debug\netcoreapp3.1\SeleniumSpecflowProject.genruntimeconfig.cache
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\BoDi.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Dynamitey.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Gherkin.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\SpecFlow.Assist.Dynamic.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\SpecFlow.Internal.Json.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Win10 Pro x64\source\repos\Test-Automation-NUnit-Selenium-WebDriver-Spec-Flow-Projects\SeleniumSpecflowProject\SeleniumSpecflowProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

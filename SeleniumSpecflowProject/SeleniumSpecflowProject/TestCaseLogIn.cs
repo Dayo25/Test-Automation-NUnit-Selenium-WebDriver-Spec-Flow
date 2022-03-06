@@ -24,7 +24,7 @@ namespace SeleniumSpecflowProject
 
             IWebElement EmailElement = webDriver.FindElement(By.Id("Email"));
             IWebElement PasswordElement = webDriver.FindElement(By.Id("Password"));
-            IWebElement SubmitbuttonElement = webDriver.FindElement(By.Id("buttons"));
+            IWebElement SubmitbuttonElement = webDriver.FindElement(By.XPath("//button[@type='submit']"));
 
             EmailElement.Clear();
             EmailElement.SendKeys("admin@yourstore.com");

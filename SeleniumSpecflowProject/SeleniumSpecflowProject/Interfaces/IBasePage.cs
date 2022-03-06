@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SeleniumSpecflowProject.Interfaces
 {
-    interface IBasePage
+    public interface IBasePage
     {
         public interface IBasePage 
         {
